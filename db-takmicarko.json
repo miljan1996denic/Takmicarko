@@ -1,0 +1,304 @@
+{
+  "takmicari": [
+    {
+      "id": "1",
+      "name": "Petar",
+      "LastName": "Vasiljevic",
+      "jmbg": "1234215214",
+      "grad": "Trebinje",
+      "mail": "petarv96@mail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Srpski",
+      "takmicenjaUKojimaUcestvuje": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Miljan",
+      "LastName": "Denic",
+      "jmbg": "32323424",
+      "grad": "Nis",
+      "mail": "miljan.denic@elfak.rs",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Srpski",
+      "takmicenjaUKojimaUcestvuje": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Borislav",
+      "LastName": "Stefanovic",
+      "jmbg": "32323322",
+      "grad": "Nis",
+      "mail": "boki@gmail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Srpski",
+      "takmicenjaUKojimaUcestvuje": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Nikola",
+      "LastName": "Dimitrijevic",
+      "jmbg": "32323322",
+      "grad": "Novi Sad",
+      "mail": "dzoni@gmail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Engleski",
+      "takmicenjaUKojimaUcestvuje": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Nikolina",
+      "LastName": "Jovetic",
+      "jmbg": "32323322",
+      "grad": "Beograd",
+      "mail": "nina99@gmail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Srpski",
+      "takmicenjaUKojimaUcestvuje": [
+        2
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Jelena",
+      "LastName": "Jovic",
+      "jmbg": "32323322",
+      "grad": "Nis",
+      "mail": "jec55@gmail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Engleski",
+      "takmicenjaUKojimaUcestvuje": [
+        1
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Marija",
+      "LastName": "Zivanovic",
+      "jmbg": "32323322",
+      "grad": "Beograd",
+      "mail": "maja22@gmail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Matematika",
+      "takmicenjaUKojimaUcestvuje": [
+        2
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Zoran",
+      "LastName": "Mihajlovic",
+      "jmbg": "32323322",
+      "grad": "Beograd",
+      "mail": "zoki22@gmail.com",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Matematika",
+      "takmicenjaUKojimaUcestvuje": [
+        2
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Milan",
+      "LastName": "Djkokovic",
+      "jmbg": "32323424",
+      "grad": "Nis",
+      "mail": "miljan.denic@elfak.rs",
+      "predmetiTakmicenjaUKojimaUcestvuje": "Srpski",
+      "takmicenjaUKojimaUcestvuje": [
+        2,
+        3
+      ]
+    }
+  ],
+  "takmicenja": [
+    {
+      "predmet": "Srpski jezik",
+      "godina": "2015",
+      "grad": "Nis",
+      "tip": "Opstinsko",
+      "id_takmicara": [
+        3,
+        5
+      ],
+      "id": 1
+    },
+    {
+      "predmet": "Matematika",
+      "godina": "2014",
+      "grad": "Beograd",
+      "tip": "Drzavno",
+      "id_takmicara": [
+        1,
+        4
+      ],
+      "id": 2
+    },
+    {
+      "predmet": "Engleski",
+      "godina": "2014",
+      "grad": "Leskovac",
+      "tip": "Opstinsko",
+      "id_takmicara": [
+        1,
+        4
+      ],
+      "id": 3
+    }
+  ],
+  "registracija": [
+    {
+      "id": 1,
+      "korisicko_ime": "petar",
+      "sifra": "petar",
+      "role": "2"
+    },
+    {
+      "id": 2,
+      "korisicko_ime": "pavle",
+      "sifra": "paavle",
+      "role": "2"
+    },
+    {
+      "korisnickoIme": "Petar",
+      "sifra": "petar",
+      "role": "1",
+      "id": 3
+    },
+    {
+      "korisnickoIme": "Petar",
+      "sifra": "nista",
+      "role": "1",
+      "id": 4
+    },
+    {
+      "korisnickoIme": "MIljan",
+      "sifra": "fax",
+      "role": "2",
+      "id": 5
+    },
+    {
+      "korisnickoIme": "Nikolina",
+      "sifra": "999999",
+      "role": "1",
+      "id": 6
+    },
+    {
+      "korisnickoIme": "dsds",
+      "sifra": "dsdd",
+      "role": "1",
+      "id": 7
+    },
+    {
+      "korisnickoIme": "aaaa",
+      "sifra": "aaaaa",
+      "role": "2",
+      "id": 8
+    },
+    {
+      "korisnickoIme": "Goran",
+      "sifra": "goran2345",
+      "role": "1",
+      "id": 9
+    },
+    {
+      "korisnickoIme": "aaa",
+      "sifra": "aaa",
+      "role": "1",
+      "id": 10
+    },
+    {
+      "korisnickoIme": "Nikola",
+      "sifra": "niddza123",
+      "role": "1",
+      "id": 11
+    },
+    {
+      "korisnickoIme": "Borislav",
+      "sifra": "boki",
+      "role": "2",
+      "id": 12
+    },
+    {
+      "korisnickoIme": "nnnnnnnnn",
+      "sifra": "mnnnnnnnnnnnnnnn",
+      "role": "1",
+      "id": 13
+    },
+    {
+      "korisnickoIme": "Filip",
+      "sifra": "1234213",
+      "role": "1",
+      "id": 14
+    },
+    {
+      "korisnickoIme": "hhhhhhh",
+      "sifra": "hhhhhh",
+      "role": "2",
+      "id": 15
+    },
+    {
+      "korisnickoIme": "1",
+      "sifra": "2",
+      "role": "1",
+      "id": 16
+    },
+    {
+      "korisnickoIme": "5",
+      "sifra": "5",
+      "role": "2",
+      "id": 17
+    },
+    {
+      "korisnickoIme": "s",
+      "sifra": "d",
+      "role": "1",
+      "id": 18
+    },
+    {
+      "korisnickoIme": "",
+      "sifra": "",
+      "role": "",
+      "id": 19
+    },
+    {
+      "korisnickoIme": "1",
+      "sifra": "2",
+      "role": "1",
+      "id": 20
+    },
+    {
+      "korisnickoIme": "1",
+      "sifra": "23",
+      "role": "1",
+      "id": 21
+    },
+    {
+      "korisnickoIme": "fff",
+      "sifra": "ff",
+      "role": "1",
+      "id": 22
+    },
+    {
+      "korisnickoIme": "dddd",
+      "sifra": "dddd",
+      "role": "1",
+      "id": 23
+    },
+    {
+      "korisnickoIme": "12",
+      "sifra": "3",
+      "role": "1",
+      "id": 24
+    },
+    {
+      "korisnickoIme": "2",
+      "sifra": "3",
+      "role": "1",
+      "id": 25
+    }
+  ]
+}
